@@ -1,7 +1,6 @@
 ---
 title: Evaluation and Report Language (EARL) Overview
-permalink: /standards-guidelines/earl/
-redirect_from: /
+permalink: /standards/earl/
 layout: default
 ---
 
@@ -45,28 +44,28 @@ EARL is an RDF vocabulary, the terms of which are defined by the
 following specifications:
 
 -   [Evaluation And Report Language (EARL) 1.0 Schema ![technical
-    report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/EARL10-Schema/){.external} -
+    report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/EARL10-Schema/) -
     Last Call Working Draft 10 May 2011 - defines the core schema for
     EARL. It is planned to become a W3C Web standard, called a *W3C
     Recommendation.*
 -   [Developer Guide for Evaluation And Report Language (EARL) 1.0
     ![technical
-    report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/EARL10-Guide/){.external} -
+    report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/EARL10-Guide/) -
     Working Draft 10 May 2011 - describes the motivations for EARL and
     provide a tutorial introduction on how to use the terms. It is
     planned to become a *W3C Note.*
 -   [HTTP Vocabulary in RDF 1.0 ![technical
-    report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/HTTP-in-RDF10/){.external} -
+    report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/HTTP-in-RDF10/) -
     Working Draft 10 May 2011 - provides terms to record HTTP exchanges
     between a client and a server in RDF. It is planned to become a *W3C
     Note.*
 -   [Representing Content in RDF 1.0 ![technical
-    report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/Content-in-RDF10/){.external} -
+    report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/Content-in-RDF10/) -
     Working Draft 10 May 2011 - provides terms to represent content
     (such as HTTP body entities) in RDF. It is planned to become a *W3C
     Note.*
 -   [Pointer Methods in RDF 1.0 ![technical
-    report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/Pointers-in-RDF10/){.external} -
+    report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/Pointers-in-RDF10/) -
     Working Draft 10 May 2011 - provides terms for representing
     pointers - entities that permit identifying a portion or segment of
     a piece of content. It is planned to become a *W3C Note.*
