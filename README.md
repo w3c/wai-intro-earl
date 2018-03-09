@@ -2,5 +2,5 @@
 
 Current Preview:
 
-https://w3c.github.io/wai-intro-earl/
+https://w3c.github.io/wai-intro-earl/standards-guidelines/earl/
 
