@@ -1,6 +1,6 @@
 ---
 title: Evaluation and Report Language (EARL) Overview
-permalink: /standards/earl/
+permalink: /standards-guidelines/earl/
 layout: default
 ---
 
