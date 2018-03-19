@@ -2,6 +2,8 @@
 title: Evaluation and Report Language (EARL) Overview
 permalink: /standards-guidelines/earl/
 layout: default
+github:
+  repository: w3c/wai-intro-earl
 ---
 
 {::options toc_levels="2" /}
