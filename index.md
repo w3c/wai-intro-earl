@@ -4,6 +4,11 @@ permalink: /standards-guidelines/earl/
 layout: default
 github:
   repository: w3c/wai-intro-earl
+footer: >
+  <p><strong>Date:</strong> Updated 10 May 2011. First published 23 July 2005.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the  Evaluation and Repair Tools Working Group Working Group (<a href="https://www.w3.org/WAI/ER/" shape="rect">ERT WG</a>).</p>
+  
 ---
 
 {::options toc_levels="2" /}
