@@ -11,6 +11,18 @@ footer: >
   
 ---
 
+
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page introduces the Evaluation and Report Language (EARL).
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
 {::options toc_levels="2" /}
 
 {::nomarkdown}
