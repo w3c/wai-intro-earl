@@ -7,7 +7,7 @@ github:
 footer: >
   <p><strong>Date:</strong> Updated 10 May 2011. First published 23 July 2005.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the  Evaluation and Repair Tools Working Group Working Group (<a href="https://www.w3.org/WAI/ER/" shape="rect">ERT WG</a>).</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the  Evaluation and Repair Tools Working Group Working Group (<a href="https://www.w3.org/WAI/ER/">ERT WG</a>).</p>
   
 ---
 
@@ -144,7 +144,7 @@ validation of Web sites. Feedback from developers and researchers who
 have interest in Semantic Web technologies for content description,
 annotation, and adaptation is also strongly encouraged. Please send
 comments to
-[public-wai-ert@w3.org](lists.w3.org/Archives/Public/public-wai-ert/), a
+[public-wai-ert@w3.org](https://lists.w3.org/Archives/Public/public-wai-ert/), a
 publicly archived mailing list.
 
 In addition to feedback on an on-going basis there are formal periods
@@ -158,7 +158,7 @@ sending comments is included in the "Status of this Document" section.
 For more information about the development of EARL or to be added to a
 EARL reviewer list of people who want to get direct notification of EARL
 documents for review, contact the [ERT WG Team
-Contact](../contacts.html#team).
+Contact]({{ "/about/contacting/" | relative_url }}#team).
 
 Opportunities for contributing to ERT WG and other WAI work are
 introduced in [Participating in WAI](/WAI/participation).
