@@ -4,6 +4,7 @@ permalink: /standards-guidelines/earl/
 layout: default
 github:
   repository: w3c/wai-intro-earl
+feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 3 July 2018. First published 23 July 2005.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
