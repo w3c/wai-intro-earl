@@ -54,12 +54,12 @@ EARL is primarily intended for developers of:
 
 EARL is an RDF vocabulary, the terms of which are defined by the following specifications:
 
--   [Evaluation And Report Language (EARL) 1.0 Schema ![technical report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/EARL10-Schema/) - defines the core schema for EARL.
--   [Developer Guide for Evaluation And Report Language (EARL) 1.0 ![technical report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/EARL10-Guide/) - describes the motivations for EARL and provide a tutorial introduction on how to use the terms.
--   [HTTP Vocabulary in RDF 1.0 ![technical report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/HTTP-in-RDF10/) - provides terms to record HTTP exchanges between a client and a server in RDF.
--   [Representing Content in RDF 1.0 ![technical report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/Content-in-RDF10/) - provides terms to represent content (such as HTTP body entities) in RDF.
--   [Pointer Methods in RDF 1.0 ![technical report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/Pointers-in-RDF10/) - provides terms for representing pointers - entities that permit identifying a portion or segment of a piece of content.
--   [Requirements for the Evaluation and Report Language (EARL) 1.0 ![technical report](http://www.w3.org/Icons/tr.png)](http://www.w3.org/TR/EARL10-Requirements/) - describes the requirements for the scope, design, and features of EARL.
+-   [Evaluation And Report Language (EARL) 1.0 Schema {% include_cached different.html %}](http://www.w3.org/TR/EARL10-Schema/) - defines the core schema for EARL.
+-   [Developer Guide for Evaluation And Report Language (EARL) 1.0 {% include_cached different.html %}](http://www.w3.org/TR/EARL10-Guide/) - describes the motivations for EARL and provide a tutorial introduction on how to use the terms.
+-   [HTTP Vocabulary in RDF 1.0 {% include_cached different.html %}](http://www.w3.org/TR/HTTP-in-RDF10/) - provides terms to record HTTP exchanges between a client and a server in RDF.
+-   [Representing Content in RDF 1.0 {% include_cached different.html %}](http://www.w3.org/TR/Content-in-RDF10/) - provides terms to represent content (such as HTTP body entities) in RDF.
+-   [Pointer Methods in RDF 1.0 {% include_cached different.html %}](http://www.w3.org/TR/Pointers-in-RDF10/) - provides terms for representing pointers - entities that permit identifying a portion or segment of a piece of content.
+-   [Requirements for the Evaluation and Report Language (EARL) 1.0 {% include_cached different.html %}](http://www.w3.org/TR/EARL10-Requirements/) - describes the requirements for the scope, design, and features of EARL.
 
 EARL 1.0 reuses other RDF terms such as those provided by the [Dublin Core Metadata Initiative (DCMI)](http://www.dublincore.org/) and the [Friend Of A Friend (FOAF)](http://www.foaf-project.org/) project. EARL terms can also be reused for other purposes, such as for content description and content labeling.
 
